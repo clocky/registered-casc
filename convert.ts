@@ -9,7 +9,10 @@ interface PostalAddress {
   addressLocality?: string;
   addressRegion?: string;
   postalCode?: string;
-  addressCountry: string;
+  addressCountry: {
+    "@type": "Country";
+    name: string;
+  }
 }
 
 interface SportsOrganization {
