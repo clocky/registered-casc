@@ -1,0 +1,34 @@
+{
+  "name": "registered-casc",
+  "version": "1.0.0",
+  "description": "Generate a schema.org compliant JSON file of Registered Community Amateur Sports Clubs in the UK.",
+  "main": "convert.js",
+  "scripts": {
+    "build": "tsc && node convert.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clocky/registered-casc.git"
+  },
+  "keywords": [
+    "sport",
+    "legal",
+    "united",
+    "kingdom",
+    "tax",
+    "hmrc",
+    "community",
+    "amateur"
+  ],
+  "author": "Mark McLaughlin <mark@mclaughlin.me.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clocky/registered-casc/issues"
+  },
+  "homepage": "https://github.com/clocky/registered-casc#readme",
+  "dependencies": {
+    "@11ty/eleventy-fetch": "^4.0.0",
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
