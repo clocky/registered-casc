@@ -8391,12 +8391,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ALDINGBOURNE TENNIS CLUB",
+    "name": "ABERGAVENNY BOWLS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "C/o Aldingbourne Community Sports Centre, Olivers Meadow, Westergate Street",
-      "addressLocality": "Westergate,  Nr Chichester",
-      "postalCode": "PO20 6QR",
+      "streetAddress": "Avenue Road, Abergavenny",
+      "addressLocality": "Monmouthshire",
+      "postalCode": "NP7 17DB",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -8512,12 +8512,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "AIREBOROUGH RIFLE & REVOLVER CLUB",
+    "name": "ACOMB SPORTS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Swaine Wood, Horsforth",
-      "addressLocality": "Leeds",
-      "postalCode": "LS18 4RP",
+      "streetAddress": "The Green, Acomb",
+      "addressLocality": "York",
+      "postalCode": "YO23 5LS",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -8749,12 +8749,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ALDEBARAN CLUB K/A PARR'S PRIORY ROWING CLUB",
+    "name": "ADDISCOMBE RIFLE CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Barn Elms Boathouse, Queen Elizabeth Walk",
-      "addressLocality": "Barnes",
-      "postalCode": "SW13 0DG",
+      "streetAddress": "Park Hill Rise",
+      "addressLocality": "Croydon",
+      "postalCode": "CRO 5JH",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -10123,12 +10123,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ABERGAVENNY BOWLS CLUB",
+    "name": "AIRDRIE GOLF CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Avenue Road, Abergavenny",
-      "addressLocality": "Monmouthshire",
-      "postalCode": "NP7 17DB",
+      "streetAddress": "Glenmavis Rd",
+      "addressLocality": "Airdrie",
+      "postalCode": "ML60 0PQ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -10807,12 +10807,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ARDLEIGH SAILING CLUB",
+    "name": "AIREBOROUGH RIFLE & REVOLVER CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Clover Way, The Reservoir",
-      "addressLocality": "Ardleigh",
-      "postalCode": "CO7 7PU",
+      "streetAddress": "Swaine Wood, Horsforth",
+      "addressLocality": "Leeds",
+      "postalCode": "LS18 4RP",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -11964,12 +11964,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ARKLEY GOLF CLUB LTD",
+    "name": "ARDLEIGH SAILING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Rowley Green Road, Arkley, Barnet",
-      "addressLocality": "Herts",
-      "postalCode": "SN5 3HL",
+      "streetAddress": "Clover Way, The Reservoir",
+      "addressLocality": "Ardleigh",
+      "postalCode": "CO7 7PU",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -13088,12 +13088,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ALBRIGHTON TABLE TENNIS CLUB",
+    "name": "Ashford & District Amateur Boxing Club",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Cross Road, Albrighton",
-      "addressLocality": "Wolverhampton",
-      "postalCode": "WV7 5QN",
+      "streetAddress": "Ashford & District Amateur Boxing C, Ashford Boxing Club Gym, Jemmett Road",
+      "addressLocality": "Ashford, Kent",
+      "postalCode": "TN23 4QE",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -13425,12 +13425,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "AIRDRIE GOLF CLUB",
+    "name": "ALDEBARAN CLUB K/A PARR'S PRIORY ROWING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Glenmavis Rd",
-      "addressLocality": "Airdrie",
-      "postalCode": "ML60 0PQ",
+      "streetAddress": "Barn Elms Boathouse, Queen Elizabeth Walk",
+      "addressLocality": "Barnes",
+      "postalCode": "SW13 0DG",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -13576,12 +13576,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ACOMB SPORTS CLUB",
+    "name": "ALBRIGHTON TABLE TENNIS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The Green, Acomb",
-      "addressLocality": "York",
-      "postalCode": "YO23 5LS",
+      "streetAddress": "Cross Road, Albrighton",
+      "addressLocality": "Wolverhampton",
+      "postalCode": "WV7 5QN",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -14662,12 +14662,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ARTHINGTON CRICKET CLUB",
+    "name": "ARKLEY GOLF CLUB LTD",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Arthington",
-      "addressLocality": "Leeds",
-      "postalCode": "LS21 1XX",
+      "streetAddress": "Rowley Green Road, Arkley, Barnet",
+      "addressLocality": "Herts",
+      "postalCode": "SN5 3HL",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -14819,12 +14819,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Ashford & District Amateur Boxing Club",
+    "name": "ALDINGBOURNE TENNIS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Ashford & District Amateur Boxing C, Ashford Boxing Club Gym, Jemmett Road",
-      "addressLocality": "Ashford, Kent",
-      "postalCode": "TN23 4QE",
+      "streetAddress": "C/o Aldingbourne Community Sports Centre, Olivers Meadow, Westergate Street",
+      "addressLocality": "Westergate,  Nr Chichester",
+      "postalCode": "PO20 6QR",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -15472,12 +15472,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ADDISCOMBE RIFLE CLUB",
+    "name": "BALLYMENA ROAD CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Park Hill Rise",
-      "addressLocality": "Croydon",
-      "postalCode": "CRO 5JH",
+      "streetAddress": "103 Railway Street, Ballymena, Co Antrim",
+      "addressLocality": "Northern Ireland",
+      "postalCode": "BT42 2AZ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -16941,12 +16941,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "BALLYMENA ROAD CLUB",
+    "name": "Barnt Green Sports Club Ltd",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "103 Railway Street, Ballymena, Co Antrim",
-      "addressLocality": "Northern Ireland",
-      "postalCode": "BT42 2AZ",
+      "streetAddress": "Margesson Drive",
+      "addressLocality": "Barnt Green",
+      "addressRegion": "Worcestershire",
+      "postalCode": "B45 7HS",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -17032,13 +17033,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Barnt Green Sports Club Ltd",
+    "name": "BEAULY BOWLING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Margesson Drive",
-      "addressLocality": "Barnt Green",
-      "addressRegion": "Worcestershire",
-      "postalCode": "B45 7HS",
+      "streetAddress": "Beauly Bowling Club, Croyard Park, Beauly",
+      "addressLocality": "Inverness-shire",
+      "postalCode": "IV4 7JW",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -17448,12 +17448,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "BEAULY BOWLING CLUB",
+    "name": "BEDWORTH RUGBY FOOTBALL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Beauly Bowling Club, Croyard Park, Beauly",
-      "addressLocality": "Inverness-shire",
-      "postalCode": "IV4 7JW",
+      "streetAddress": "Bedworth Rugby Football Club, Rectory Fields, Smarts Road",
+      "addressLocality": "Bedworth,  Warks",
+      "postalCode": "CV12 0BO",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -17508,12 +17508,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "BEDWORTH RUGBY FOOTBALL CLUB",
+    "name": "BEDFORD RIFLE CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Bedworth Rugby Football Club, Rectory Fields, Smarts Road",
-      "addressLocality": "Bedworth,  Warks",
-      "postalCode": "CV12 0BO",
+      "streetAddress": "C/o 12 The Magpies, Bushmead, Luton",
+      "addressLocality": "Bedfordshire",
+      "postalCode": "LU2 7XJ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -17538,12 +17538,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "BEDFORD RIFLE CLUB",
+    "name": "BEXLEY PARK SPORTS & SOCIAL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "C/o 12 The Magpies, Bushmead, Luton",
-      "addressLocality": "Bedfordshire",
-      "postalCode": "LU2 7XJ",
+      "streetAddress": "Bexley Park, Calvert Drive",
+      "addressLocality": "Dartford",
+      "addressRegion": "Kent",
+      "postalCode": "DA2 3AJ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -18985,13 +18986,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "BEXLEY PARK SPORTS & SOCIAL CLUB",
+    "name": "BIRCHENCLIFFE CRICKET AND ATHLETIC CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Bexley Park, Calvert Drive",
-      "addressLocality": "Dartford",
-      "addressRegion": "Kent",
-      "postalCode": "DA2 3AJ",
+      "streetAddress": "Halifax Road, Birchencliffe",
+      "addressLocality": "Huddersfield",
+      "postalCode": "HB3 3BX",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -19316,12 +19316,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "BIRCHENCLIFFE CRICKET AND ATHLETIC CLUB",
+    "name": "BLAYDON AND DISTRICT CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Halifax Road, Birchencliffe",
-      "addressLocality": "Huddersfield",
-      "postalCode": "HB3 3BX",
+      "streetAddress": "Denefield, Park Avenue, Blaydon",
+      "addressLocality": "Tyne &Wear",
+      "postalCode": "NE21 4DF",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -19991,12 +19991,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "BLAYDON AND DISTRICT CRICKET CLUB",
+    "name": "BLYTH RANGERS F C",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Denefield, Park Avenue, Blaydon",
-      "addressLocality": "Tyne &Wear",
-      "postalCode": "NE21 4DF",
+      "streetAddress": "Blyth Rangers F C, Blyth Sporting Club, Tynedale Drive",
+      "addressLocality": "Blyth",
+      "postalCode": "NE24 4LQ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -20702,12 +20702,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "BLOXWICH STAFFORD ROAD SPORTS CLUB",
+    "name": "BON ACCORD GYMNASTIC CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Stafford Road, Bloxwich, Walsall",
-      "addressLocality": "West Midlands",
-      "postalCode": "WJ3 3NJ",
+      "streetAddress": "University Of Aberdeen, Hilton Campus",
+      "addressLocality": "Aberdeen",
+      "postalCode": "AB24 4FA",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -20762,12 +20762,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "BON ACCORD GYMNASTIC CLUB",
+    "name": "BLOXWICH STAFFORD ROAD SPORTS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "University Of Aberdeen, Hilton Campus",
-      "addressLocality": "Aberdeen",
-      "postalCode": "AB24 4FA",
+      "streetAddress": "Stafford Road, Bloxwich, Walsall",
+      "addressLocality": "West Midlands",
+      "postalCode": "WJ3 3NJ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -21723,12 +21723,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Bolton Trampoline Club",
+    "name": "BOOKER GLIDING CLUB LTD",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "St. Catherine's Academy, Newby Road Entrance, Newby Road",
-      "addressLocality": "Bolton",
-      "postalCode": "BL2 5JB",
+      "streetAddress": "Wycombe Air Park, Booker, Marlow",
+      "addressLocality": "Bucks",
+      "postalCode": "SL7 3DR",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -22290,12 +22290,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "BLYTH RANGERS F C",
+    "name": "BOROUGHMUIR THISTLE F C",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Blyth Rangers F C, Blyth Sporting Club, Tynedale Drive",
-      "addressLocality": "Blyth",
-      "postalCode": "NE24 4LQ",
+      "streetAddress": "Boroughmuir Thistle F C, Meggetland Sports Complex, Colinton Road",
+      "addressLocality": "Edinburgh",
+      "postalCode": "EH14 1AS",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -24313,12 +24313,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "BOROUGHMUIR THISTLE F C",
+    "name": "Bolton Trampoline Club",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Boroughmuir Thistle F C, Meggetland Sports Complex, Colinton Road",
-      "addressLocality": "Edinburgh",
-      "postalCode": "EH14 1AS",
+      "streetAddress": "St. Catherine's Academy, Newby Road Entrance, Newby Road",
+      "addressLocality": "Bolton",
+      "postalCode": "BL2 5JB",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -24914,13 +24914,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "BRAINTREE LAWN TENNIS CLUB",
+    "name": "Breckland Model Aero Club",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Clockhouse Way",
-      "addressLocality": "Braintree",
-      "addressRegion": "Essex",
-      "postalCode": "CM7 6DF",
+      "streetAddress": "Two Mile Bottom Flying Field, Off A134, Mundford Road",
+      "addressLocality": "Thetford",
+      "postalCode": "IP24 1LZ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -25450,12 +25449,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Breckland Model Aero Club",
+    "name": "BRIDPORT & WEST DORSET INDOOR BOWLS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Two Mile Bottom Flying Field, Off A134, Mundford Road",
-      "addressLocality": "Thetford",
-      "postalCode": "IP24 1LZ",
+      "streetAddress": "Unit 3 St Andrews House, Shoe Lane",
+      "addressLocality": "Bridport",
+      "addressRegion": "Dorset",
+      "postalCode": "DT3 3DB",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -26110,13 +26110,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "BRIDPORT & WEST DORSET INDOOR BOWLS CLUB",
+    "name": "BRAINTREE LAWN TENNIS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Unit 3 St Andrews House, Shoe Lane",
-      "addressLocality": "Bridport",
-      "addressRegion": "Dorset",
-      "postalCode": "DT3 3DB",
+      "streetAddress": "Clockhouse Way",
+      "addressLocality": "Braintree",
+      "addressRegion": "Essex",
+      "postalCode": "CM7 6DF",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -26466,12 +26466,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "BRITON FERRYTOWN CRICKET CLUB",
+    "name": "BRITISH OLYMPIC WRESTLING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Ynysymaerdy Road, Briton Ferry",
-      "addressLocality": "Neath",
-      "postalCode": "SA10 2TS",
+      "streetAddress": "Amir's Way Gym, Kingswood, Douglas Estate",
+      "addressLocality": "Forest Road,  Kingswood",
+      "postalCode": "BS15 7HJ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -26481,12 +26481,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "BRITISH OLYMPIC WRESTLING CLUB",
+    "name": "ARTHINGTON CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Amir's Way Gym, Kingswood, Douglas Estate",
-      "addressLocality": "Forest Road,  Kingswood",
-      "postalCode": "BS15 7HJ",
+      "streetAddress": "Arthington",
+      "addressLocality": "Leeds",
+      "postalCode": "LS21 1XX",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -27271,27 +27271,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "CARLISE RUGBY FOOTBALL CLUB LIMITED",
+    "name": "BRITON FERRYTOWN CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Rugby Ground, Warwick Road",
-      "addressLocality": "Carlisle",
-      "postalCode": "CA1 1LW",
-      "addressCountry": {
-        "@type": "Country",
-        "name": "GB"
-      }
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsOrganization",
-    "name": "Carlisle Squash and Racketball Club Limi ted",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Carlisle Squash Club, Rugby Ground, Warwick Road",
-      "addressLocality": "Carlisle",
-      "postalCode": "CA1 1LW",
+      "streetAddress": "Ynysymaerdy Road, Briton Ferry",
+      "addressLocality": "Neath",
+      "postalCode": "SA10 2TS",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -27517,12 +27502,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "CAMELON BOWLING CLUB",
+    "name": "BUDLEIGH SALTERTON GAMES CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Main Street, Camelon",
-      "addressLocality": "Falkirk",
-      "postalCode": "FK1 4ND",
+      "streetAddress": "Circket Field Lane",
+      "addressLocality": "Budleigh Salterton",
+      "addressRegion": "Devon",
+      "postalCode": "EX9 6JQ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -27715,13 +27701,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "CASTERBRIDGE MID DORSET INDOOR BOWLING",
+    "name": "CAMELON BOWLING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Piddlehinton Camp",
-      "addressLocality": "Piddlehinton",
-      "addressRegion": "Dorset",
-      "postalCode": "DT2 7TA",
+      "streetAddress": "Main Street, Camelon",
+      "addressLocality": "Falkirk",
+      "postalCode": "FK1 4ND",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -27933,12 +27918,27 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "CENTRAL MANCHESTER INSTITUTE OF GYMNASTI CS",
+    "name": "CARLISE RUGBY FOOTBALL CLUB LIMITED",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Hyde Road",
-      "addressLocality": "Manchester",
-      "postalCode": "M18 7GZ",
+      "streetAddress": "Rugby Ground, Warwick Road",
+      "addressLocality": "Carlisle",
+      "postalCode": "CA1 1LW",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "GB"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsOrganization",
+    "name": "Carlisle Squash and Racketball Club Limi ted",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Carlisle Squash Club, Rugby Ground, Warwick Road",
+      "addressLocality": "Carlisle",
+      "postalCode": "CA1 1LW",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -28011,12 +28011,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "CHAPEL ALLERTON LAWN TENNIS & SQUASH CLU B",
+    "name": "CASTERBRIDGE MID DORSET INDOOR BOWLING",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Wensley Avenue, Chapel Allerton",
-      "addressLocality": "Leeds",
-      "postalCode": "LS7 2QX",
+      "streetAddress": "Piddlehinton Camp",
+      "addressLocality": "Piddlehinton",
+      "addressRegion": "Dorset",
+      "postalCode": "DT2 7TA",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -28447,12 +28448,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "CHAPEL-EN-LE-FRITH CRICKET CLUB",
+    "name": "CENTRAL MANCHESTER INSTITUTE OF GYMNASTI CS",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Chapel-en-le-frith Cricket Club, Willowdrive, Chapel-en-le-frith",
-      "addressLocality": "High Peak",
-      "postalCode": "SK22 6JP",
+      "streetAddress": "Hyde Road",
+      "addressLocality": "Manchester",
+      "postalCode": "M18 7GZ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -28974,12 +28975,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "CHEPSTOW ATHLETIC CLUB",
+    "name": "CHAPEL ALLERTON LAWN TENNIS & SQUASH CLU B",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Mathern Road, Bulwark, Chepstow",
-      "addressLocality": "Monmouthshire",
-      "postalCode": "NP6 5JT",
+      "streetAddress": "Wensley Avenue, Chapel Allerton",
+      "addressLocality": "Leeds",
+      "postalCode": "LS7 2QX",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -31546,12 +31547,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Chesterfield Hockey Club",
+    "name": "CHAPEL-EN-LE-FRITH CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "St Mary's Community Sports Ptrshp, Newbold Road",
-      "addressLocality": "Chesterfield",
-      "postalCode": "S41 2DD",
+      "streetAddress": "Chapel-en-le-frith Cricket Club, Willowdrive, Chapel-en-le-frith",
+      "addressLocality": "High Peak",
+      "postalCode": "SK22 6JP",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -32517,12 +32518,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "CHESHUNT RIFLE & PISTOL CLUB",
+    "name": "CHEPSTOW ATHLETIC CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Po Box 34, Waltham Cross",
-      "addressLocality": "Herts",
-      "postalCode": "EN8 8RT",
+      "streetAddress": "Mathern Road, Bulwark, Chepstow",
+      "addressLocality": "Monmouthshire",
+      "postalCode": "NP6 5JT",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -32611,12 +32612,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "CHILBOLTON FLYING CLUB",
+    "name": "CHESHUNT RIFLE & PISTOL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Stonefield Park, Martins Lane, Chilbolton",
-      "addressLocality": "Hants",
-      "postalCode": "S020 6BG",
+      "streetAddress": "Po Box 34, Waltham Cross",
+      "addressLocality": "Herts",
+      "postalCode": "EN8 8RT",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -33133,13 +33134,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "CHIPSTEAD SAILING CLUB",
+    "name": "CHILBOLTON FLYING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Chevening Road",
-      "addressLocality": "Chipstead",
-      "addressRegion": "Kent",
-      "postalCode": "TH13 2SD",
+      "streetAddress": "Stonefield Park, Martins Lane, Chilbolton",
+      "addressLocality": "Hants",
+      "postalCode": "S020 6BG",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -33181,12 +33181,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Clwb Rygbi Ystradgynlais Ltd",
+    "name": "Chesterfield Hockey Club",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The Clubhouse, Ynyscedwyn Road",
-      "addressLocality": "Ystradgynlais",
-      "postalCode": "SA9 1HB",
+      "streetAddress": "St Mary's Community Sports Ptrshp, Newbold Road",
+      "addressLocality": "Chesterfield",
+      "postalCode": "S41 2DD",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -33196,12 +33196,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "BOOKER GLIDING CLUB LTD",
+    "name": "CHIPSTEAD SAILING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Wycombe Air Park, Booker, Marlow",
-      "addressLocality": "Bucks",
-      "postalCode": "SL7 3DR",
+      "streetAddress": "Chevening Road",
+      "addressLocality": "Chipstead",
+      "addressRegion": "Kent",
+      "postalCode": "TH13 2SD",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -33335,12 +33336,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "COMBE MARTIN A F C",
+    "name": "CHURCHINFORD CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Hollands Park, Chapel Lane",
-      "addressLocality": "Combe Martin",
-      "postalCode": "EX31 0HJ",
+      "streetAddress": "The Pavilion, Churchinford Cricket Field, Churchinford",
+      "addressLocality": "Taunton,  Somerset",
+      "postalCode": "TA3 7UK",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -33966,12 +33967,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Cottenham Renegades Rugby Club",
+    "name": "Clwb Rygbi Ystradgynlais Ltd",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "High Street, Cottenham",
-      "addressLocality": "Cambridge",
-      "postalCode": "CB24 8UE",
+      "streetAddress": "The Clubhouse, Ynyscedwyn Road",
+      "addressLocality": "Ystradgynlais",
+      "postalCode": "SA9 1HB",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -34211,13 +34212,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "CRANBROOK PARK BOWLING CLUB",
+    "name": "COMBE MARTIN A F C",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Valentines Park",
-      "addressLocality": "Ilford",
-      "addressRegion": "Essex",
-      "postalCode": "IG1 4ZZ",
+      "streetAddress": "Hollands Park, Chapel Lane",
+      "addressLocality": "Combe Martin",
+      "postalCode": "EX31 0HJ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -35748,12 +35748,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "CRANBORNE BOWLING CLUB",
+    "name": "COTSWOLD GLIDING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Club Green, Jackson Field, New Rd",
-      "addressLocality": "Rochester,  Kent",
-      "postalCode": "ME1 1DU",
+      "streetAddress": "Aston Down Airfield, Minchinhampton",
+      "addressLocality": "Stroud",
+      "addressRegion": "Gloucestershire",
+      "postalCode": "GL6 8HT",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -35779,13 +35780,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "CRAWLEY CROQUET CLUB",
+    "name": "COUNTRY PURSUITS CAMBRIDGE,CLAY TARGET C LUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Milton Mount Gardens, Pound Hill",
-      "addressLocality": "Crawley",
-      "addressRegion": "West Sussex",
-      "postalCode": "RH10 7PH",
+      "streetAddress": "The Orchard, Chear Fen Farm",
+      "addressLocality": "Chittering",
+      "addressRegion": "Cambridgeshire",
+      "postalCode": "CB5 9PN",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -37429,13 +37430,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "COTSWOLD GLIDING CLUB",
+    "name": "CRANBROOK PARK BOWLING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Aston Down Airfield, Minchinhampton",
-      "addressLocality": "Stroud",
-      "addressRegion": "Gloucestershire",
-      "postalCode": "GL6 8HT",
+      "streetAddress": "Valentines Park",
+      "addressLocality": "Ilford",
+      "addressRegion": "Essex",
+      "postalCode": "IG1 4ZZ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -37924,13 +37925,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "CRANFORD SPORTS CLUB",
+    "name": "Cottenham Renegades Rugby Club",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "42 Salterton Road",
-      "addressLocality": "Exmouth",
-      "addressRegion": "Devon",
-      "postalCode": "EX8 2WQ",
+      "streetAddress": "High Street, Cottenham",
+      "addressLocality": "Cambridge",
+      "postalCode": "CB24 8UE",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -39078,12 +39078,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "CRYNANT RUGBY FOOTBALL CLUB",
+    "name": "CRANFORD SPORTS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "54 Main Road, Crynant",
-      "addressLocality": "Neath",
-      "postalCode": "SA10 2NP",
+      "streetAddress": "42 Salterton Road",
+      "addressLocality": "Exmouth",
+      "addressRegion": "Devon",
+      "postalCode": "EX8 2WQ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -39428,13 +39429,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "BUDLEIGH SALTERTON GAMES CLUB",
+    "name": "CRYNANT RUGBY FOOTBALL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Circket Field Lane",
-      "addressLocality": "Budleigh Salterton",
-      "addressRegion": "Devon",
-      "postalCode": "EX9 6JQ",
+      "streetAddress": "54 Main Road, Crynant",
+      "addressLocality": "Neath",
+      "postalCode": "SA10 2NP",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -42255,12 +42255,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "DEDDINGTON & DISTRICT RIFLE & REVOLVER C LUB",
+    "name": "CRANBORNE BOWLING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The Anson Range, Smiths Sand Pit, Duns Tew Road",
-      "addressLocality": "Middle Barton,  Oxfordshire",
-      "postalCode": "OX6 4JW",
+      "streetAddress": "Club Green, Jackson Field, New Rd",
+      "addressLocality": "Rochester,  Kent",
+      "postalCode": "ME1 1DU",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -42537,13 +42537,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "DEDHAM CRICKET CLUB",
+    "name": "CRAWLEY CROQUET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "C/o Neil Watson, The Hay Barn Dedham Road",
-      "addressLocality": "Stratford St Mary",
-      "addressRegion": "Suffolk",
-      "postalCode": "CO7 6LO",
+      "streetAddress": "Milton Mount Gardens, Pound Hill",
+      "addressLocality": "Crawley",
+      "addressRegion": "West Sussex",
+      "postalCode": "RH10 7PH",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -42693,12 +42693,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "DOWNEND POLICE & COMMUNITY AMATEUR BOXIN G CLUB",
+    "name": "DEDDINGTON & DISTRICT RIFLE & REVOLVER C LUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The Boxing Gym, Moravian Road, Businesspark",
-      "addressLocality": "Moravian Road,  Kingswood",
-      "postalCode": "BS15 8NG",
+      "streetAddress": "The Anson Range, Smiths Sand Pit, Duns Tew Road",
+      "addressLocality": "Middle Barton,  Oxfordshire",
+      "postalCode": "OX6 4JW",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -43433,12 +43433,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "DURSLEY RUGBY FOOTBALL CLUB",
+    "name": "DOWNEND POLICE & COMMUNITY AMATEUR BOXIN G CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Severn View, 11a Field Lane, Cam",
-      "addressLocality": "Dursley",
-      "postalCode": "G11 6JF",
+      "streetAddress": "The Boxing Gym, Moravian Road, Businesspark",
+      "addressLocality": "Moravian Road,  Kingswood",
+      "postalCode": "BS15 8NG",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -44927,12 +44927,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "EASINGTON COLLIERY WELFARE CRICKET CLUB",
+    "name": "DURSLEY RUGBY FOOTBALL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Easington Cricket Club, Paradise Gardens, Easington Colliery",
-      "addressLocality": "Peterlee,  Co.durham",
-      "postalCode": "SR8 3JJ",
+      "streetAddress": "Severn View, 11a Field Lane, Cam",
+      "addressLocality": "Dursley",
+      "postalCode": "G11 6JF",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -44942,13 +44942,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ENFIELD KARATE CLUB",
+    "name": "EASINGTON COLLIERY WELFARE CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Enfield Karate Club, Po Box 566",
-      "addressLocality": "Waltham Abbey",
-      "addressRegion": "Essex",
-      "postalCode": "EN9 3WU",
+      "streetAddress": "Easington Cricket Club, Paradise Gardens, Easington Colliery",
+      "addressLocality": "Peterlee,  Co.durham",
+      "postalCode": "SR8 3JJ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -44974,12 +44973,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "CHURCHINFORD CRICKET CLUB",
+    "name": "ERINS OWN GAELIC ATHLETIC & SOCIAL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The Pavilion, Churchinford Cricket Field, Churchinford",
-      "addressLocality": "Taunton,  Somerset",
-      "postalCode": "TA3 7UK",
+      "streetAddress": "56 Quarry Road, Knockloughrim",
+      "addressLocality": "Magherafelt",
+      "postalCode": "BT46 8NS",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -45205,12 +45204,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ESSEX DIVING",
+    "name": "Exeter Panthers AFC",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Essex Diving, The Underwater Studio, Archers Fields",
-      "addressLocality": "Basildon,  Essex",
-      "postalCode": "SS13 1DL",
+      "streetAddress": "Bettys Mead Playing Field, Beacon Lane",
+      "addressLocality": "Exeter",
+      "postalCode": "EX4 5LN",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -46187,12 +46186,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ERINS OWN GAELIC ATHLETIC & SOCIAL CLUB",
+    "name": "ENFIELD KARATE CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "56 Quarry Road, Knockloughrim",
-      "addressLocality": "Magherafelt",
-      "postalCode": "BT46 8NS",
+      "streetAddress": "Enfield Karate Club, Po Box 566",
+      "addressLocality": "Waltham Abbey",
+      "addressRegion": "Essex",
+      "postalCode": "EN9 3WU",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -46446,12 +46446,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Exeter Panthers AFC",
+    "name": "FAIRFORD BOWLING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Bettys Mead Playing Field, Beacon Lane",
-      "addressLocality": "Exeter",
-      "postalCode": "EX4 5LN",
+      "streetAddress": "East End, Fairford",
+      "addressLocality": "Glos",
+      "postalCode": "GL7 9AP",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -46709,12 +46709,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "FAIRFORD BOWLING CLUB",
+    "name": "ESSEX DIVING",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "East End, Fairford",
-      "addressLocality": "Glos",
-      "postalCode": "GL7 9AP",
+      "streetAddress": "Essex Diving, The Underwater Studio, Archers Fields",
+      "addressLocality": "Basildon,  Essex",
+      "postalCode": "SS13 1DL",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -49337,12 +49337,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "FLAMBOROUGH HEAD GOLF CLUB",
+    "name": "FLAMINGO CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Lighthouse Road, Flamborough",
-      "addressLocality": "East Yorkshire",
-      "postalCode": "YO15 4AR",
+      "streetAddress": "The Holt, Salt Lane, Upham",
+      "addressLocality": "Nr Bishops Waltham,  Hants",
+      "postalCode": "S32 1HR",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -49889,13 +49889,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "FLEETWEY LIMITED",
+    "name": "FOCUS INSTITUTE OF GYMNASTICS",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Knightsdale Road",
-      "addressLocality": "Weymouth",
-      "addressRegion": "Dorset",
-      "postalCode": "DT4 0MS",
+      "streetAddress": "Focus Institute Of Gymnastics, Halewoodleisure Centre, Bailey's Lane",
+      "addressLocality": "Halewood",
+      "postalCode": "L26 9CU",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -50971,12 +50970,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "FULWOOD SHOOTING CLUB",
+    "name": "FLAMBOROUGH HEAD GOLF CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Fulwood Shooting Club, Hartley Trading Estate, Long Lane",
-      "addressLocality": "Aintree,  Liverpool",
-      "postalCode": "L9 7UE",
+      "streetAddress": "Lighthouse Road, Flamborough",
+      "addressLocality": "East Yorkshire",
+      "postalCode": "YO15 4AR",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -52105,12 +52104,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Frocester Cricket Club Limited",
+    "name": "FLEETWEY LIMITED",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Pounds Close, Bath Road, Frocester",
-      "addressLocality": "Stroud",
-      "postalCode": "GL50 3TW",
+      "streetAddress": "Knightsdale Road",
+      "addressLocality": "Weymouth",
+      "addressRegion": "Dorset",
+      "postalCode": "DT4 0MS",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -54617,13 +54617,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "GAINSBOROUGH RIFLE CLUB",
+    "name": "Frocester Cricket Club Limited",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Off Laughton Road",
-      "addressLocality": "Gainsborough",
-      "addressRegion": "Lincolnshire",
-      "postalCode": "DW21 3ET",
+      "streetAddress": "Pounds Close, Bath Road, Frocester",
+      "addressLocality": "Stroud",
+      "postalCode": "GL50 3TW",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -56431,13 +56430,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "COUNTRY PURSUITS CAMBRIDGE,CLAY TARGET C LUB",
+    "name": "FULWOOD SHOOTING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The Orchard, Chear Fen Farm",
-      "addressLocality": "Chittering",
-      "addressRegion": "Cambridgeshire",
-      "postalCode": "CB5 9PN",
+      "streetAddress": "Fulwood Shooting Club, Hartley Trading Estate, Long Lane",
+      "addressLocality": "Aintree,  Liverpool",
+      "postalCode": "L9 7UE",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -57030,12 +57028,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "HARROW WEALD BOWLING CLUB",
+    "name": "DEDHAM CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harrow Weald Recreation Ground, Harrow Weald",
-      "addressLocality": "Bextree Lane",
-      "postalCode": "HA3 6BR",
+      "streetAddress": "C/o Neil Watson, The Hay Barn Dedham Road",
+      "addressLocality": "Stratford St Mary",
+      "addressRegion": "Suffolk",
+      "postalCode": "CO7 6LO",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -57076,12 +57075,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "HERNE HILL YOUTH CYCLING CLUB",
+    "name": "GUILDFORD ANGLING SOCIETY",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Herne Hill Velodrome, Burbage Road",
-      "addressLocality": "London",
-      "postalCode": "SE28 9HE",
+      "streetAddress": "C/o 25 Blackwell Avenue, Park Barn",
+      "addressLocality": "Guildford",
+      "addressRegion": "Surrey",
+      "postalCode": "GU2 6LU",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -57471,12 +57471,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "HOOK SPORTS ASSOCIATION",
+    "name": "Hammersmith Martial Arts Club",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Newtown Road, Hook, Haverfordwest",
-      "addressLocality": "Pembrokeshire",
-      "postalCode": "SA62 1NB",
+      "streetAddress": "89 Richford Street, Hammersmith",
+      "addressLocality": "London",
+      "postalCode": "W6 9LZ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -57548,13 +57548,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "HORNCHURCH CRICKET CLUB",
+    "name": "HARROW WEALD BOWLING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Harrow Lodge, Hornchurch Road",
-      "addressLocality": "Hornchurch",
-      "addressRegion": "Essex",
-      "postalCode": "RM11 1ET",
+      "streetAddress": "Harrow Weald Recreation Ground, Harrow Weald",
+      "addressLocality": "Bextree Lane",
+      "postalCode": "HA3 6BR",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -57967,13 +57966,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "HORTON KIRBY BOWLING CLUB",
+    "name": "HERNE HILL YOUTH CYCLING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Horton Road",
-      "addressLocality": "South Darenth",
-      "addressRegion": "Kent",
-      "postalCode": "DA4 7AX",
+      "streetAddress": "Herne Hill Velodrome, Burbage Road",
+      "addressLocality": "London",
+      "postalCode": "SE28 9HE",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -59022,12 +59020,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Horspath Cricket Club",
+    "name": "HOOK SPORTS ASSOCIATION",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Oxford Road, Horspath",
-      "addressLocality": "Oxford",
-      "postalCode": "OX33 4RD",
+      "streetAddress": "Newtown Road, Hook, Haverfordwest",
+      "addressLocality": "Pembrokeshire",
+      "postalCode": "SA62 1NB",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -59037,12 +59035,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Humber Triathletes and Events Ltd",
+    "name": "HORTON KIRBY BOWLING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Total Fitness, Willerby Hill Business Park, Beverley",
-      "addressLocality": "Hull",
-      "postalCode": "HU10 6NS",
+      "streetAddress": "Horton Road",
+      "addressLocality": "South Darenth",
+      "addressRegion": "Kent",
+      "postalCode": "DA4 7AX",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -59596,12 +59595,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Hungerford Rugby Football Club",
+    "name": "Humber Triathletes and Events Ltd",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Triangle Field, Hungerford",
-      "addressLocality": "Berkshire",
-      "postalCode": "RG17 0AR",
+      "streetAddress": "Total Fitness, Willerby Hill Business Park, Beverley",
+      "addressLocality": "Hull",
+      "postalCode": "HU10 6NS",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -60897,12 +60896,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "HYLANDS COMMUNITY AMATEUR SPORTS CLUB",
+    "name": "Horspath Cricket Club",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Po Box 19",
-      "addressLocality": "Upminster",
-      "postalCode": "RM14 2NB",
+      "streetAddress": "Oxford Road, Horspath",
+      "addressLocality": "Oxford",
+      "postalCode": "OX33 4RD",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -62045,12 +62044,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "FOCUS INSTITUTE OF GYMNASTICS",
+    "name": "HYLANDS COMMUNITY AMATEUR SPORTS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Focus Institute Of Gymnastics, Halewoodleisure Centre, Bailey's Lane",
-      "addressLocality": "Halewood",
-      "postalCode": "L26 9CU",
+      "streetAddress": "Po Box 19",
+      "addressLocality": "Upminster",
+      "postalCode": "RM14 2NB",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -62303,12 +62302,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Ipswich Boxing Club",
+    "name": "HORNCHURCH CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "8 Altitude Business Park, The Drift  Nacton Road",
-      "addressLocality": "Ipswich",
-      "postalCode": "IP3 9QP",
+      "streetAddress": "Harrow Lodge, Hornchurch Road",
+      "addressLocality": "Hornchurch",
+      "addressRegion": "Essex",
+      "postalCode": "RM11 1ET",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -62318,12 +62318,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "FLAMINGO CRICKET CLUB",
+    "name": "Hungerford Rugby Football Club",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The Holt, Salt Lane, Upham",
-      "addressLocality": "Nr Bishops Waltham,  Hants",
-      "postalCode": "S32 1HR",
+      "streetAddress": "Triangle Field, Hungerford",
+      "addressLocality": "Berkshire",
+      "postalCode": "RG17 0AR",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -62774,12 +62774,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "J C MEAKIN CRICKET CLUB",
+    "name": "ILLINGWORTH ST MARYS CRICKET CLUB LTD",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Ivyhouse Road, Hanley",
-      "addressLocality": "Stoke-on-trent",
-      "postalCode": "ST1 3LN",
+      "streetAddress": "Bousfield Waite & Co, Prescott Chambers, 28 Prescott Street",
+      "addressLocality": "Halifax,  West Yorkshire",
+      "postalCode": "HX1 2JL",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -63158,13 +63158,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "IPSWICH & EAST SUFFOLK CRICKET CLUB",
+    "name": "Ipswich Boxing Club",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Chantry Park, London Road",
+      "streetAddress": "8 Altitude Business Park, The Drift  Nacton Road",
       "addressLocality": "Ipswich",
-      "addressRegion": "Suffolk",
-      "postalCode": "IP2 0BQ",
+      "postalCode": "IP3 9QP",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -64068,12 +64067,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "KIELDER WATER SKI CLUB",
+    "name": "IPSWICH & EAST SUFFOLK CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The Beeches, Leaplish, Kielder",
-      "addressLocality": "Northumberland",
-      "postalCode": "NE48 1AX",
+      "streetAddress": "Chantry Park, London Road",
+      "addressLocality": "Ipswich",
+      "addressRegion": "Suffolk",
+      "postalCode": "IP2 0BQ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -64731,12 +64731,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "KIRKHEATON CRICKET AND BOWLING CLUB",
+    "name": "J C MEAKIN CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Bankfield, Kirkheaton, Huddersfield",
-      "addressLocality": "West Yorkshire",
-      "postalCode": "HD5 5UD",
+      "streetAddress": "Ivyhouse Road, Hanley",
+      "addressLocality": "Stoke-on-trent",
+      "postalCode": "ST1 3LN",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -66782,12 +66782,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "KIRKHILL LAWN TENNIS CLUB",
+    "name": "KIELDER WATER SKI CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "34 Whitefield Avenue, Cambuslang",
-      "addressLocality": "Southlanarkshire",
-      "postalCode": "G72 8HR",
+      "streetAddress": "The Beeches, Leaplish, Kielder",
+      "addressLocality": "Northumberland",
+      "postalCode": "NE48 1AX",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -67188,13 +67188,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "GUILDFORD ANGLING SOCIETY",
+    "name": "GAINSBOROUGH RIFLE CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "C/o 25 Blackwell Avenue, Park Barn",
-      "addressLocality": "Guildford",
-      "addressRegion": "Surrey",
-      "postalCode": "GU2 6LU",
+      "streetAddress": "Off Laughton Road",
+      "addressLocality": "Gainsborough",
+      "addressRegion": "Lincolnshire",
+      "postalCode": "DW21 3ET",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -68019,12 +68019,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "KIRKBURTON FOOTBALL CLUB",
+    "name": "KIRKHILL LAWN TENNIS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Burton Acres Lane, Kirkburton, Huddersfield",
-      "addressLocality": "Yorks",
-      "postalCode": "HD8 0BA",
+      "streetAddress": "34 Whitefield Avenue, Cambuslang",
+      "addressLocality": "Southlanarkshire",
+      "postalCode": "G72 8HR",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -68158,12 +68158,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Hammersmith Martial Arts Club",
+    "name": "KIRKHEATON CRICKET AND BOWLING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "89 Richford Street, Hammersmith",
-      "addressLocality": "London",
-      "postalCode": "W6 9LZ",
+      "streetAddress": "Bankfield, Kirkheaton, Huddersfield",
+      "addressLocality": "West Yorkshire",
+      "postalCode": "HD5 5UD",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -69144,12 +69144,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "LANCASTER CRICKET & SPORTS CLUB",
+    "name": "KIRKBURTON FOOTBALL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Lune Road",
-      "addressLocality": "Lancaster",
-      "postalCode": "LA1 5QN",
+      "streetAddress": "Burton Acres Lane, Kirkburton, Huddersfield",
+      "addressLocality": "Yorks",
+      "postalCode": "HD8 0BA",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -69804,12 +69804,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "LEDBURY LAWN TENNIS CLUB",
+    "name": "LANCASTER CRICKET & SPORTS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Underdown, Ledbury",
-      "addressLocality": "Herefordshire",
-      "postalCode": "HR8 2 JE",
+      "streetAddress": "Lune Road",
+      "addressLocality": "Lancaster",
+      "postalCode": "LA1 5QN",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -70257,12 +70257,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "LEOMINSTER RIFLE AND PISTOL CLUB",
+    "name": "LEDBURY LAWN TENNIS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Pinsley Mill, Etnam Street, Leominster",
+      "streetAddress": "Underdown, Ledbury",
       "addressLocality": "Herefordshire",
-      "postalCode": "HR6 8EO",
+      "postalCode": "HR8 2 JE",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -70946,12 +70946,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "MARKET BOSWORTH RUGBY FOOTBALL CLUB LIMI TED",
+    "name": "LOWESTOFT RAILWAY BOWLS & SOCIAL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Market Bosworth Rugby Football Club, Limited, Cadeby Lane",
-      "addressLocality": "Cadeby,  Nuneaton",
-      "postalCode": "CV13 0BE",
+      "streetAddress": "123a Carlton Road",
+      "addressLocality": "Lowestoft",
+      "addressRegion": "Suffolk",
+      "postalCode": "NE33 0LZ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -71441,13 +71442,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "MALVERN RUGBY FOOTBALL CLUB",
+    "name": "Madras College FP RFC",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The Clubhouse, Spring Lane",
-      "addressLocality": "Malvern",
-      "addressRegion": "Worcestershire",
-      "postalCode": "WE14 1AJ",
+      "streetAddress": "Station Park, Fife",
+      "addressLocality": "St Andrews",
+      "postalCode": "KY16 9SE",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -71814,12 +71814,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "MATSON RUGBY FOOTBALL CLUB",
+    "name": "Maidstone Victory Angling and Medway Pre servation Society",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The Club House, Redwell Road, Matson",
-      "addressLocality": "Gloucester",
-      "postalCode": "GL4 9JG",
+      "streetAddress": "Po Box 1306",
+      "addressLocality": "Maidstone",
+      "postalCode": "ME14 9QD",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -73118,13 +73118,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "MARTLET KAYAK CLUB",
+    "name": "MALVERN RUGBY FOOTBALL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "294 Madeira Arches",
-      "addressLocality": "Brighton",
-      "addressRegion": "East Sussex",
-      "postalCode": "BN2 1DZ",
+      "streetAddress": "The Clubhouse, Spring Lane",
+      "addressLocality": "Malvern",
+      "addressRegion": "Worcestershire",
+      "postalCode": "WE14 1AJ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -73654,12 +73654,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "MATRIX GYMNASTICS ACADEMY",
+    "name": "MARKET BOSWORTH RUGBY FOOTBALL CLUB LIMI TED",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Rushden And Diamonds Sports Centre, Diamond Way",
-      "addressLocality": "Irthlingborough",
-      "postalCode": "NN9 4QF",
+      "streetAddress": "Market Bosworth Rugby Football Club, Limited, Cadeby Lane",
+      "addressLocality": "Cadeby,  Nuneaton",
+      "postalCode": "CV13 0BE",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -74873,12 +74873,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "MEOLE BRACE BOWLING CLUB",
+    "name": "MATRIX GYMNASTICS ACADEMY",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Meole Brace Bowling Club, Upper Road, Meole Brace",
-      "addressLocality": "Shrewsbury",
-      "postalCode": "SY3 9JJ",
+      "streetAddress": "Rushden And Diamonds Sports Centre, Diamond Way",
+      "addressLocality": "Irthlingborough",
+      "postalCode": "NN9 4QF",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -74984,12 +74984,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "MESC Table Tennis Club",
+    "name": "MARTLET KAYAK CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Boothen Neighbourhood Centre, Summer Street",
-      "addressLocality": "Stoke On Trent",
-      "postalCode": "ST4 4DW",
+      "streetAddress": "294 Madeira Arches",
+      "addressLocality": "Brighton",
+      "addressRegion": "East Sussex",
+      "postalCode": "BN2 1DZ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -76186,12 +76187,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ILLINGWORTH ST MARYS CRICKET CLUB LTD",
+    "name": "MATSON RUGBY FOOTBALL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Bousfield Waite & Co, Prescott Chambers, 28 Prescott Street",
-      "addressLocality": "Halifax,  West Yorkshire",
-      "postalCode": "HX1 2JL",
+      "streetAddress": "The Club House, Redwell Road, Matson",
+      "addressLocality": "Gloucester",
+      "postalCode": "GL4 9JG",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -76375,12 +76376,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "MIRFIELD MARTIAL ARTS CLUB",
+    "name": "MESC Table Tennis Club",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Unit 1, Second Floor, Ledgard Bridge Mills",
-      "addressLocality": "Back Station Road,  Mirfield",
-      "postalCode": "WF14 8NJ",
+      "streetAddress": "Boothen Neighbourhood Centre, Summer Street",
+      "addressLocality": "Stoke On Trent",
+      "postalCode": "ST4 4DW",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -77407,13 +77408,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "MORETON IN MARSH BOWLING CLUB",
+    "name": "MIRFIELD MARTIAL ARTS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Hospital Road",
-      "addressLocality": "Moreton-in-marsh",
-      "addressRegion": "Gloucestershire",
-      "postalCode": "GL56 0BS",
+      "streetAddress": "Unit 1, Second Floor, Ledgard Bridge Mills",
+      "addressLocality": "Back Station Road,  Mirfield",
+      "postalCode": "WF14 8NJ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -77727,12 +77727,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "NELSON RUGBY FOOTBALL CLUB",
+    "name": "MEOLE BRACE BOWLING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The Park, Off Shingrig Road, Nelson",
-      "addressLocality": "Treharris,  Mid Glamorgan",
-      "postalCode": "CF46 6ES",
+      "streetAddress": "Meole Brace Bowling Club, Upper Road, Meole Brace",
+      "addressLocality": "Shrewsbury",
+      "postalCode": "SY3 9JJ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -78072,12 +78072,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "New Forest & Lymington Vollleyball",
+    "name": "MORETON IN MARSH BOWLING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "New Forest Volleyball Centre, Brockenhurst College, Lyndhurst Road",
-      "addressLocality": "Brockenhurst",
-      "postalCode": "SO42 7ZS",
+      "streetAddress": "Hospital Road",
+      "addressLocality": "Moreton-in-marsh",
+      "addressRegion": "Gloucestershire",
+      "postalCode": "GL56 0BS",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -78446,12 +78447,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "NEW MILLS BOWLS CRICKET AND TENNIS CLUB",
+    "name": "New Forest & Lymington Vollleyball",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Church Road, New Mills",
-      "addressLocality": "High Peak",
-      "postalCode": "SH22 4NF",
+      "streetAddress": "New Forest Volleyball Centre, Brockenhurst College, Lyndhurst Road",
+      "addressLocality": "Brockenhurst",
+      "postalCode": "SO42 7ZS",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -79605,12 +79606,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "NORMANBY HALL CRICKET CLUB",
+    "name": "NEW MILLS BOWLS CRICKET AND TENNIS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Cricket Lane, Normanby",
-      "addressLocality": "Middlesbrough",
-      "postalCode": "TS6 0UJ",
+      "streetAddress": "Church Road, New Mills",
+      "addressLocality": "High Peak",
+      "postalCode": "SH22 4NF",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -79986,12 +79987,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "NORTHERN FOOTBALL CLUB LIMITED",
+    "name": "NELSON RUGBY FOOTBALL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Mccracken Park, Great North Road, Gosforth",
-      "addressLocality": "Newcastle Upon Tyne",
-      "postalCode": "NE3 2DG",
+      "streetAddress": "The Park, Off Shingrig Road, Nelson",
+      "addressLocality": "Treharris,  Mid Glamorgan",
+      "postalCode": "CF46 6ES",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -81755,12 +81756,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "NORWEST BOWLING CLUB",
+    "name": "NORMANBY HALL CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Norwest Bowling Club, Fosseway, Midsomer Norton",
-      "addressLocality": "Radstock",
-      "postalCode": "BA3 4AY",
+      "streetAddress": "Cricket Lane, Normanby",
+      "addressLocality": "Middlesbrough",
+      "postalCode": "TS6 0UJ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -81940,12 +81941,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "NOTTS UNITY CASUALS CRICKET CLUB",
+    "name": "NINFIELD BOWLS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The Brian Wakefield Memorial Ground, Lenton Lane, Clifton Bridge",
-      "addressLocality": "Nottingham",
-      "postalCode": "NG7 2LC",
+      "streetAddress": "Recreation Ground, The Green, Ninfield",
+      "addressLocality": "Battle,  E. Sussex",
+      "postalCode": "TN33 4EL",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -82291,13 +82292,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "OAKS AND DISTRICT TENNIS CLUB",
+    "name": "NORTHERN FOOTBALL CLUB LIMITED",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Oaks Road, Oaks In Charnwood",
-      "addressLocality": "Coalville",
-      "addressRegion": "Leicestershire",
-      "postalCode": "LE67 9YD",
+      "streetAddress": "Mccracken Park, Great North Road, Gosforth",
+      "addressLocality": "Newcastle Upon Tyne",
+      "postalCode": "NE3 2DG",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -83501,12 +83501,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "OLNEY RUGBY FOOTBALL CLUB",
+    "name": "NOTTS UNITY CASUALS CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "East Street, Olney",
-      "addressLocality": "Bucks",
-      "postalCode": "MK46 4DV",
+      "streetAddress": "The Brian Wakefield Memorial Ground, Lenton Lane, Clifton Bridge",
+      "addressLocality": "Nottingham",
+      "postalCode": "NG7 2LC",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -83744,12 +83744,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "OSBALDWICK SPORT CLUB",
+    "name": "NORWEST BOWLING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The Leyes, Osbaldwick",
-      "addressLocality": "York",
-      "postalCode": "YO1 3PR",
+      "streetAddress": "Norwest Bowling Club, Fosseway, Midsomer Norton",
+      "addressLocality": "Radstock",
+      "postalCode": "BA3 4AY",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -83910,12 +83910,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "PENDLE AND CRAVEN CROQUET CLUB",
+    "name": "OAKS AND DISTRICT TENNIS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Nelson & Colne College, Scotland Road",
-      "addressLocality": "Nelson",
-      "postalCode": "BB9 7YD",
+      "streetAddress": "Oaks Road, Oaks In Charnwood",
+      "addressLocality": "Coalville",
+      "addressRegion": "Leicestershire",
+      "postalCode": "LE67 9YD",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -84047,13 +84048,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "LOWESTOFT RAILWAY BOWLS & SOCIAL CLUB",
+    "name": "OLNEY RUGBY FOOTBALL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "123a Carlton Road",
-      "addressLocality": "Lowestoft",
-      "addressRegion": "Suffolk",
-      "postalCode": "NE33 0LZ",
+      "streetAddress": "East Street, Olney",
+      "addressLocality": "Bucks",
+      "postalCode": "MK46 4DV",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -84213,12 +84213,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Madras College FP RFC",
+    "name": "OSBALDWICK SPORT CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Station Park, Fife",
-      "addressLocality": "St Andrews",
-      "postalCode": "KY16 9SE",
+      "streetAddress": "The Leyes, Osbaldwick",
+      "addressLocality": "York",
+      "postalCode": "YO1 3PR",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -84228,13 +84228,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "PERRYWOOD SPORTS & SOCIAL CLUB",
+    "name": "LEOMINSTER RIFLE AND PISTOL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Hon Eycrock Lane, Salfords",
-      "addressLocality": "Redhill",
-      "addressRegion": "Surrey",
-      "postalCode": "RN1 5JP",
+      "streetAddress": "Pinsley Mill, Etnam Street, Leominster",
+      "addressLocality": "Herefordshire",
+      "postalCode": "HR6 8EO",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -86328,12 +86327,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "PONTEFRACT AND DISTRICT GOLF CLUB LIMITE  D",
+    "name": "PENDLE AND CRAVEN CROQUET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Pontefract & District Golf Club, Park Lane",
-      "addressLocality": "Pontefract",
-      "postalCode": "WF8 4QS",
+      "streetAddress": "Nelson & Colne College, Scotland Road",
+      "addressLocality": "Nelson",
+      "postalCode": "BB9 7YD",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -86359,12 +86358,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Poole Gig Rowing Club",
+    "name": "PERRYWOOD SPORTS & SOCIAL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "New Harbour Road",
-      "addressLocality": "Poole",
-      "postalCode": "BH15 4BB",
+      "streetAddress": "Hon Eycrock Lane, Salfords",
+      "addressLocality": "Redhill",
+      "addressRegion": "Surrey",
+      "postalCode": "RN1 5JP",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -86513,12 +86513,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "POCKLINGTON TENNIS CLUB",
+    "name": "Poole Gig Rowing Club",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Hodsow Lane, Pocklington",
-      "addressLocality": "York",
-      "postalCode": "YO4 2NH",
+      "streetAddress": "New Harbour Road",
+      "addressLocality": "Poole",
+      "postalCode": "BH15 4BB",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -87672,12 +87672,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Maidstone Victory Angling and Medway Pre servation Society",
+    "name": "Portishead Pilot Gig Club",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Po Box 1306",
-      "addressLocality": "Maidstone",
-      "postalCode": "ME14 9QD",
+      "streetAddress": "Portishead Quays Marina, Portishead",
+      "addressLocality": "Bristol",
+      "postalCode": "BS20 7DJ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -88118,12 +88118,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "PORTISHEAD LAWN TENNIS CLUB",
+    "name": "POCKLINGTON TENNIS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Portishead Lawn Tennis Club, Esplanade Road, Portishead",
-      "addressLocality": "North Somerset",
-      "postalCode": "BS20 9HB",
+      "streetAddress": "Hodsow Lane, Pocklington",
+      "addressLocality": "York",
+      "postalCode": "YO4 2NH",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -88393,12 +88393,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Portishead Pilot Gig Club",
+    "name": "PORT TALBOT FIT CLUB LIMITED",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Portishead Quays Marina, Portishead",
-      "addressLocality": "Bristol",
-      "postalCode": "BS20 7DJ",
+      "streetAddress": "Unit 1b, 4 Cramic Way",
+      "addressLocality": "Port Talbot",
+      "postalCode": "SA13 7RU",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -89229,12 +89229,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "PORT TALBOT FIT CLUB LIMITED",
+    "name": "PORTISHEAD LAWN TENNIS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Unit 1b, 4 Cramic Way",
-      "addressLocality": "Port Talbot",
-      "postalCode": "SA13 7RU",
+      "streetAddress": "Portishead Lawn Tennis Club, Esplanade Road, Portishead",
+      "addressLocality": "North Somerset",
+      "postalCode": "BS20 9HB",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -89476,12 +89476,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "PURBECK GUN CLUB",
+    "name": "PONTEFRACT AND DISTRICT GOLF CLUB LIMITE  D",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Swanage Bay View Caravan Park, Priest'sroad",
-      "addressLocality": "Swanage",
-      "postalCode": "BU19 2QS",
+      "streetAddress": "Pontefract & District Golf Club, Park Lane",
+      "addressLocality": "Pontefract",
+      "postalCode": "WF8 4QS",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -90225,12 +90225,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "REDDISH NORTH END FC",
+    "name": "PURBECK GUN CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Browning Road, Reddish",
-      "addressLocality": "Stockport",
-      "postalCode": "SK5 6JW",
+      "streetAddress": "Swanage Bay View Caravan Park, Priest'sroad",
+      "addressLocality": "Swanage",
+      "postalCode": "BU19 2QS",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -91098,12 +91098,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Red Star AFC",
+    "name": "RED HEATHENS FOOTBALL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Middlemore Lane",
-      "addressLocality": "Aldridge",
-      "postalCode": "WS9 8DN",
+      "streetAddress": "Red Heathens Football Pitch, Charing Heath",
+      "addressLocality": "Nr Ashford",
+      "addressRegion": "Kent",
+      "postalCode": "TN27 1DZ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -91466,12 +91467,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ROTHERHAM HARRIERS & ATHLETICS CLUB",
+    "name": "REDDISH NORTH END FC",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Herringthorpe Stadium, Middle Lane South",
-      "addressLocality": "Rotherham",
-      "postalCode": "S65 2HR",
+      "streetAddress": "Browning Road, Reddish",
+      "addressLocality": "Stockport",
+      "postalCode": "SK5 6JW",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -92359,13 +92360,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ROSEDALE OLD CESTRIANS SPORTS CLUB",
+    "name": "Red Star AFC",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Andrews Lane",
-      "addressLocality": "Cheshunt",
-      "addressRegion": "Hertfordshire",
-      "postalCode": "EN7 7TB",
+      "streetAddress": "Middlemore Lane",
+      "addressLocality": "Aldridge",
+      "postalCode": "WS9 8DN",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -92589,12 +92589,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "NINFIELD BOWLS CLUB",
+    "name": "ROTHERHAM HARRIERS & ATHLETICS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Recreation Ground, The Green, Ninfield",
-      "addressLocality": "Battle,  E. Sussex",
-      "postalCode": "TN33 4EL",
+      "streetAddress": "Herringthorpe Stadium, Middle Lane South",
+      "addressLocality": "Rotherham",
+      "postalCode": "S65 2HR",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -93068,12 +93068,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "RUSSELL GAELIC UNION",
+    "name": "ROSEDALE OLD CESTRIANS SPORTS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "100 Old Course Road, Downpatrick",
-      "addressLocality": "N Ireland",
-      "postalCode": "BT30 8BW",
+      "streetAddress": "Andrews Lane",
+      "addressLocality": "Cheshunt",
+      "addressRegion": "Hertfordshire",
+      "postalCode": "EN7 7TB",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -93192,12 +93193,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "SCULTHORPE BOWLS",
+    "name": "RUSSELL GAELIC UNION",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Sculthorpe Bowls, Creake Road, Sculthorpe",
-      "addressLocality": "Fakenham,  Norfolk",
-      "postalCode": "WR21 9JA",
+      "streetAddress": "100 Old Course Road, Downpatrick",
+      "addressLocality": "N Ireland",
+      "postalCode": "BT30 8BW",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -94045,13 +94046,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "SHEERNESS BOXING CLUB",
+    "name": "RUGBY TOWN GIRLS FC",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Treadmill Station Road",
-      "addressLocality": "Sheerness",
-      "addressRegion": "Kent",
-      "postalCode": "ME11 5HX",
+      "streetAddress": "Rainsbrook Centre",
+      "addressLocality": "Rugby",
+      "postalCode": "CV21 4JPN",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -94204,12 +94204,27 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "SEECO RIFLE AND PISTOL CLUB",
+    "name": "SALTS TENNIS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Lodge Road, Redditch",
-      "addressLocality": "Worcs",
-      "postalCode": "B97 7BS",
+      "streetAddress": "Salts Tennis Club, The Playing Fields, Victoria Road",
+      "addressLocality": "\"Saltaire,  Shipley\"",
+      "postalCode": "BD18 3LB",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "GB"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsOrganization",
+    "name": "SHIPLEY PROVIDENCE CRICKET CLUB",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "The Playing Fields, Victoria Road, Saltare Shipley",
+      "addressLocality": "West Yorkshire",
+      "postalCode": "BD18 3LB",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -94267,12 +94282,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "SHEPSHED DYNAMO YOUTH AND JUNIOR FOOTBAL L CLUB",
+    "name": "SEECO RIFLE AND PISTOL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Forest Street, Shepshed",
-      "addressLocality": "Loughborough",
-      "postalCode": "LE12 9DB",
+      "streetAddress": "Lodge Road, Redditch",
+      "addressLocality": "Worcs",
+      "postalCode": "B97 7BS",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -94632,12 +94647,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "SHOTLEY & BENFIELDSIDE TENNIS CLUB",
+    "name": "SCULTHORPE BOWLS",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Benfield Close, Shotley Bridge",
-      "addressLocality": "Co. Durham",
-      "postalCode": "DH8 0RJ",
+      "streetAddress": "Sculthorpe Bowls, Creake Road, Sculthorpe",
+      "addressLocality": "Fakenham,  Norfolk",
+      "postalCode": "WR21 9JA",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -94647,13 +94662,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "SHIRLEY PARK GOLF CLUB",
+    "name": "SHEPSHED DYNAMO YOUTH AND JUNIOR FOOTBAL L CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Shirley Park Golf Club, 194 Addiscombe Road",
-      "addressLocality": "Croydon",
-      "addressRegion": "Surrey",
-      "postalCode": "CRO 7LB",
+      "streetAddress": "Forest Street, Shepshed",
+      "addressLocality": "Loughborough",
+      "postalCode": "LE12 9DB",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -95619,12 +95633,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "SLOUGH AND ETON DOLPHIN SWIMMING CLUB",
+    "name": "SHIRLEY PARK GOLF CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "C/o Ad Astra, Langley Park Road",
-      "addressLocality": "Iver",
-      "postalCode": "SLO 0JQ",
+      "streetAddress": "Shirley Park Golf Club, 194 Addiscombe Road",
+      "addressLocality": "Croydon",
+      "addressRegion": "Surrey",
+      "postalCode": "CRO 7LB",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -96342,12 +96357,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "SOUTH LEEDS GOLF CLUB LIMITED",
+    "name": "SHEERNESS BOXING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Parkside Links, Gipsy Lane",
-      "addressLocality": "Leeds",
-      "postalCode": "LS11 5TU",
+      "streetAddress": "Treadmill Station Road",
+      "addressLocality": "Sheerness",
+      "addressRegion": "Kent",
+      "postalCode": "ME11 5HX",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -97228,12 +97244,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "SOUTH KYME GOLF CLUB",
+    "name": "SLOUGH AND ETON DOLPHIN SWIMMING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Skinners Lan, South Kyme",
-      "addressLocality": "Lincoln",
-      "postalCode": "LNA 4AT",
+      "streetAddress": "C/o Ad Astra, Langley Park Road",
+      "addressLocality": "Iver",
+      "postalCode": "SLO 0JQ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -97364,13 +97380,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "SOLENT SEAHAWKS AMERICAN FOOTBALL CLUB A CADEMY",
+    "name": "SHOTLEY & BENFIELDSIDE TENNIS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Test Park Sports Ground",
-      "addressLocality": "Southampton",
-      "addressRegion": "Hampshire",
-      "postalCode": "SO16 9BP",
+      "streetAddress": "Benfield Close, Shotley Bridge",
+      "addressLocality": "Co. Durham",
+      "postalCode": "DH8 0RJ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -98232,12 +98247,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "St Albans Cricket Club  (St Albans Junio r Cricket Club)",
+    "name": "SOLENT SEAHAWKS AMERICAN FOOTBALL CLUB A CADEMY",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "St Albans Cricket Club, Clarence Park, St Albans",
-      "addressLocality": "Herts",
-      "postalCode": "AL4 1NF",
+      "streetAddress": "Test Park Sports Ground",
+      "addressLocality": "Southampton",
+      "addressRegion": "Hampshire",
+      "postalCode": "SO16 9BP",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -98389,12 +98405,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ST JAMES TENNIS CLUB (GRIMSBY) LTD",
+    "name": "SOUTHSEA TENNIS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Hereford Avenue, Grimsby",
-      "addressLocality": "North East Lincolnshire",
-      "postalCode": "DN34 5DG",
+      "streetAddress": "Southsea Tennis Club, P O Box 640, Southsea",
+      "addressLocality": "Hants",
+      "postalCode": "PO4 0XP",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -99152,12 +99168,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ST. MOLAISE IRVINESTOWN",
+    "name": "SOUTH LEEDS GOLF CLUB LIMITED",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "2 Lack Road, Irvinestown",
-      "addressLocality": "Co.fermanagh",
-      "postalCode": "BT94 1EB",
+      "streetAddress": "Parkside Links, Gipsy Lane",
+      "addressLocality": "Leeds",
+      "postalCode": "LS11 5TU",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -99167,12 +99183,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "St Patrick's Donagh GFC",
+    "name": "St Albans Cricket Club  (St Albans Junio r Cricket Club)",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Donagh Hill, Donagh",
-      "addressLocality": "Co Fermanagh",
-      "postalCode": "BT92 0AA",
+      "streetAddress": "St Albans Cricket Club, Clarence Park, St Albans",
+      "addressLocality": "Herts",
+      "postalCode": "AL4 1NF",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -99306,12 +99322,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ST JUST CRICKET CLUB",
+    "name": "ST JAMES TENNIS CLUB (GRIMSBY) LTD",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Cape Cornwall Rd, St Just, Penzance",
-      "addressLocality": "Cornwall",
-      "postalCode": "TR19 9PQ",
+      "streetAddress": "Hereford Avenue, Grimsby",
+      "addressLocality": "North East Lincolnshire",
+      "postalCode": "DN34 5DG",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -99442,12 +99458,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "ROCHDALE CATHOLIC CLUB CC",
+    "name": "ST JUST CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "C/o 6 Marne Crescent, Rochdale",
-      "addressLocality": "Lancs",
-      "postalCode": "DL11 5DN",
+      "streetAddress": "Cape Cornwall Rd, St Just, Penzance",
+      "addressLocality": "Cornwall",
+      "postalCode": "TR19 9PQ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -99457,12 +99473,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "STIRLING COUNTY CRICKET CLUB",
+    "name": "ST. MOLAISE IRVINESTOWN",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Williamfield",
-      "addressLocality": "Stirling",
-      "postalCode": "FK7 9HQ",
+      "streetAddress": "2 Lack Road, Irvinestown",
+      "addressLocality": "Co.fermanagh",
+      "postalCode": "BT94 1EB",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -99487,12 +99503,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "STOCKPORT SHOTOKAN KARATE CLUB",
+    "name": "STAFFORD RUGBY UNION FOOTBALL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Unit 331l Vauxhall Karate School, Greg Street, South Reddish",
-      "addressLocality": "Stockport",
-      "postalCode": "SK5 7BR",
+      "streetAddress": "The County Ground, Newport Road",
+      "addressLocality": "Stafford",
+      "postalCode": "ST16 9BG",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -100466,12 +100482,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "STEWARTS & LLOYDS FOOTBALL CLUB",
+    "name": "St Patrick's Donagh GFC",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Occupation Road, Corby",
-      "addressLocality": "Northants",
-      "postalCode": "N17 1EH",
+      "streetAddress": "Donagh Hill, Donagh",
+      "addressLocality": "Co Fermanagh",
+      "postalCode": "BT92 0AA",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -100603,27 +100619,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "SALTS TENNIS CLUB",
+    "name": "STEWARTS & LLOYDS FOOTBALL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Salts Tennis Club, The Playing Fields, Victoria Road",
-      "addressLocality": "\"Saltaire,  Shipley\"",
-      "postalCode": "BD18 3LB",
-      "addressCountry": {
-        "@type": "Country",
-        "name": "GB"
-      }
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsOrganization",
-    "name": "SHIPLEY PROVIDENCE CRICKET CLUB",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "The Playing Fields, Victoria Road, Saltare Shipley",
-      "addressLocality": "West Yorkshire",
-      "postalCode": "BD18 3LB",
+      "streetAddress": "Occupation Road, Corby",
+      "addressLocality": "Northants",
+      "postalCode": "N17 1EH",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -100679,12 +100680,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "STOCKSBRIDGE CRICKET CLUB",
+    "name": "STIRLING COUNTY CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Bracken Moor Lane, Stocksbridge",
-      "addressLocality": "Sheffield",
-      "postalCode": "S36 5AN",
+      "streetAddress": "Williamfield",
+      "addressLocality": "Stirling",
+      "postalCode": "FK7 9HQ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -101581,12 +101582,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "STOCKSBRIDGE TENNIS CLUB",
+    "name": "STOCKSBRIDGE CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Stocksbridge Tennis Club, Linden Crescent, Stocksbridge",
+      "streetAddress": "Bracken Moor Lane, Stocksbridge",
       "addressLocality": "Sheffield",
-      "postalCode": "S36 5DF",
+      "postalCode": "S36 5AN",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -102107,12 +102108,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "RUGBY TOWN GIRLS FC",
+    "name": "STOCKSBRIDGE TENNIS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Rainsbrook Centre",
-      "addressLocality": "Rugby",
-      "postalCode": "CV21 4JPN",
+      "streetAddress": "Stocksbridge Tennis Club, Linden Crescent, Stocksbridge",
+      "addressLocality": "Sheffield",
+      "postalCode": "S36 5DF",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -102275,12 +102276,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "STRATHMARTINE BOWLING CLUB",
+    "name": "STOCKPORT SHOTOKAN KARATE CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Rosemill, Strathmartine",
-      "addressLocality": "By Dundee",
-      "postalCode": "DD3 0IN",
+      "streetAddress": "Unit 331l Vauxhall Karate School, Greg Street, South Reddish",
+      "addressLocality": "Stockport",
+      "postalCode": "SK5 7BR",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -102723,13 +102724,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "STREATHAM-CROYDON RUGBY FOOTBALL CLUB",
+    "name": "STRATFORD UPON AVON BOAT CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "159 Brigstock Road",
-      "addressLocality": "Thornton Heath",
-      "addressRegion": "Surrey",
-      "postalCode": "CR4 7JP",
+      "streetAddress": "Recreation Ground, Swan' Nest Lane",
+      "addressLocality": "Stratford-on-avon",
+      "postalCode": "CV37 1LS",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -102754,12 +102754,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "STRATFORD UPON AVON BOAT CLUB",
+    "name": "Strawberry Hill Golf Club",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Recreation Ground, Swan' Nest Lane",
-      "addressLocality": "Stratford-on-avon",
-      "postalCode": "CV37 1LS",
+      "streetAddress": "Epworth House, 25 City Road",
+      "addressLocality": "London",
+      "postalCode": "EC1Y 1AR",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -103344,12 +103344,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Strawberry Hill Golf Club",
+    "name": "STRATHMARTINE BOWLING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Epworth House, 25 City Road",
-      "addressLocality": "London",
-      "postalCode": "EC1Y 1AR",
+      "streetAddress": "Rosemill, Strathmartine",
+      "addressLocality": "By Dundee",
+      "postalCode": "DD3 0IN",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -104840,12 +104840,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "SYNERGI WEIGHTLIFTING CLUB",
+    "name": "Swindon Speleological Society",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Unit J5 Colchester Estate, Colchester Avenue, Penylan",
-      "addressLocality": "Cardiff",
-      "postalCode": "CR23 9AP",
+      "streetAddress": "Wern House, Penwyllt, Pen-y-cae",
+      "addressLocality": "Swansea",
+      "postalCode": "SN9 1GQ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -105431,12 +105431,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "TARLETON CRICKET CLUB",
+    "name": "ROCHDALE CATHOLIC CLUB CC",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "C/o Mr A Mills, 25 Church View, Tarleton",
-      "addressLocality": "Preston",
-      "postalCode": "PR4 5UW",
+      "streetAddress": "C/o 6 Marne Crescent, Rochdale",
+      "addressLocality": "Lancs",
+      "postalCode": "DL11 5DN",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -105905,12 +105905,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Telford Chin Woo",
+    "name": "SYNERGI WEIGHTLIFTING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Unit C10 Tweedale Ind Est, Madeley",
-      "addressLocality": "Shropshire",
-      "postalCode": "TF3 4JR",
+      "streetAddress": "Unit J5 Colchester Estate, Colchester Avenue, Penylan",
+      "addressLocality": "Cardiff",
+      "postalCode": "CR23 9AP",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -105950,13 +105950,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "THE BANKS SPORTS & SOCIAL CLUB",
+    "name": "TARBARROW CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Dennes Lane",
-      "addressLocality": "Lydd Romney Marsh",
-      "addressRegion": "Kent",
-      "postalCode": "TN29 7HG",
+      "streetAddress": "The Whiteway",
+      "addressLocality": "Cirencester",
+      "addressRegion": "Gloucestershire",
+      "postalCode": "GL57 7BA",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -106307,27 +106307,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "THORNHILL TROJANS AMATEUR RUGBY LEAGUE F OOTBALL CLUB",
+    "name": "TARLETON CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Thornhill Sports & Community Centre, Overthorpe Park, Thornhill",
-      "addressLocality": "Dewsbury,  Westyorkshire",
-      "postalCode": "WF12 0DP",
-      "addressCountry": {
-        "@type": "Country",
-        "name": "GB"
-      }
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsOrganization",
-    "name": "THORNHILL TROJANS DOLLY MIXTURES NETBALL TEAM",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Thornhill Sports & Community Centre, Overthorpe Park, Edge Top Road",
-      "addressLocality": "Thornhill, Dewsbury",
-      "postalCode": "WF12 0DP",
+      "streetAddress": "C/o Mr A Mills, 25 Church View, Tarleton",
+      "addressLocality": "Preston",
+      "postalCode": "PR4 5UW",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -106709,12 +106694,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "The Warlingham Archery Club",
+    "name": "THE BANKS SPORTS & SOCIAL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Warlingham Park School, Chelsham Common",
-      "addressLocality": "Warlingham",
-      "postalCode": "CR5 9PB",
+      "streetAddress": "Dennes Lane",
+      "addressLocality": "Lydd Romney Marsh",
+      "addressRegion": "Kent",
+      "postalCode": "TN29 7HG",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -107278,12 +107264,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "THURTONLAND CRICKET CLUB",
+    "name": "The Magdala Lawn Tennis Club Ltd",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Marsh Hall Lane, Thurstonland",
-      "addressLocality": "Huddersfield",
-      "postalCode": "HD4 4XD",
+      "streetAddress": "Northgate House, New Basford",
+      "addressLocality": "Nottingham",
+      "postalCode": "NH7 7BQ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -107293,12 +107279,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "STAFFORD RUGBY UNION FOOTBALL CLUB",
+    "name": "Thornhill and District Squash Club",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The County Ground, Newport Road",
-      "addressLocality": "Stafford",
-      "postalCode": "ST16 9BG",
+      "streetAddress": "Thornhill And District Squash Club, Drumlanrig Street, Thornhill",
+      "addressLocality": "Dumfries And Galloway",
+      "postalCode": "DG3 4DT",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -107599,12 +107585,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "TOBERMORY SNOOKER CLUB",
+    "name": "Telford Chin Woo",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Achaneil, 30c Main Street, Tobermory",
-      "addressLocality": "Argyll",
-      "postalCode": "PA75 6ND",
+      "streetAddress": "Unit C10 Tweedale Ind Est, Madeley",
+      "addressLocality": "Shropshire",
+      "postalCode": "TF3 4JR",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -107831,12 +107817,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Tottington Bowling & Social Club",
+    "name": "The Warlingham Archery Club",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Bowling Green Pavillion, Market Street",
-      "addressLocality": "Tottington",
-      "postalCode": "BL8 3LN",
+      "streetAddress": "Warlingham Park School, Chelsham Common",
+      "addressLocality": "Warlingham",
+      "postalCode": "CR5 9PB",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -108199,12 +108185,27 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "TOTTON & ELING BOWLS CLUB",
+    "name": "THORNHILL TROJANS AMATEUR RUGBY LEAGUE F OOTBALL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Crabbs Way, Totton, Southampton",
-      "addressLocality": "Hants",
-      "postalCode": "SD40 8FA",
+      "streetAddress": "Thornhill Sports & Community Centre, Overthorpe Park, Thornhill",
+      "addressLocality": "Dewsbury,  Westyorkshire",
+      "postalCode": "WF12 0DP",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "GB"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsOrganization",
+    "name": "THORNHILL TROJANS DOLLY MIXTURES NETBALL TEAM",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Thornhill Sports & Community Centre, Overthorpe Park, Edge Top Road",
+      "addressLocality": "Thornhill, Dewsbury",
+      "postalCode": "WF12 0DP",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -108780,12 +108781,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "TREDEGAR IRONSIDES RUGBY FOOTBALL CLUB",
+    "name": "THURTONLAND CRICKET CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The Bush, Park Row",
-      "addressLocality": "Tredegar",
-      "postalCode": "NP22 3NQ",
+      "streetAddress": "Marsh Hall Lane, Thurstonland",
+      "addressLocality": "Huddersfield",
+      "postalCode": "HD4 4XD",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -109812,12 +109813,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "TRING ATHLETIC FOOTBALL CLUB",
+    "name": "TOBERMORY SNOOKER CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Tring Athletic Football Club, The Grassroots Stadium, Dorian Williams Sports Centre",
-      "addressLocality": "Cow Lane,  Tring",
-      "postalCode": "HP23 5NT",
+      "streetAddress": "Achaneil, 30c Main Street, Tobermory",
+      "addressLocality": "Argyll",
+      "postalCode": "PA75 6ND",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -111676,12 +111677,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Typhoon Dragon Boat Club",
+    "name": "SOUTH KYME GOLF CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Royal Docks Adventure, 1012 Dockside Road",
-      "addressLocality": "London",
-      "postalCode": "E16 2QD",
+      "streetAddress": "Skinners Lan, South Kyme",
+      "addressLocality": "Lincoln",
+      "postalCode": "LNA 4AT",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -112600,12 +112601,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "VERNON CARUS SPORTS CLUB",
+    "name": "Tottington Bowling & Social Club",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Off Factory Lane, Penwortham",
-      "addressLocality": "Preston",
-      "postalCode": "PR1 9SN",
+      "streetAddress": "Bowling Green Pavillion, Market Street",
+      "addressLocality": "Tottington",
+      "postalCode": "BL8 3LN",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -112690,12 +112691,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "TUNBRIDGE WELLS AND ST PETER'S SHOOTING CLUB",
+    "name": "TOTTON & ELING BOWLS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Tunbridge Wells And St Peter's Shootingclub, Nevill Range, Warwick Park",
-      "addressLocality": "Tunbridge Wells,  Kent",
-      "postalCode": "TN2 5EU",
+      "streetAddress": "Crabbs Way, Totton, Southampton",
+      "addressLocality": "Hants",
+      "postalCode": "SD40 8FA",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -114004,12 +114005,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Swindon Speleological Society",
+    "name": "TRING ATHLETIC FOOTBALL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Wern House, Penwyllt, Pen-y-cae",
-      "addressLocality": "Swansea",
-      "postalCode": "SN9 1GQ",
+      "streetAddress": "Tring Athletic Football Club, The Grassroots Stadium, Dorian Williams Sports Centre",
+      "addressLocality": "Cow Lane,  Tring",
+      "postalCode": "HP23 5NT",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -114488,12 +114489,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "WEALD LAWN TENNIS AND SQUASH RACQUETS",
+    "name": "TREDEGAR IRONSIDES RUGBY FOOTBALL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "",
-      "addressLocality": "Kk",
-      "postalCode": "KK",
+      "streetAddress": "The Bush, Park Row",
+      "addressLocality": "Tredegar",
+      "postalCode": "NP22 3NQ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -114503,13 +114504,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "West Bergholt Cricket Club",
+    "name": "TUNBRIDGE WELLS AND ST PETER'S SHOOTING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Manor Road",
-      "addressLocality": "West Bergholt",
-      "addressRegion": "Essex",
-      "postalCode": "CO6 5UB",
+      "streetAddress": "Tunbridge Wells And St Peter's Shootingclub, Nevill Range, Warwick Park",
+      "addressLocality": "Tunbridge Wells,  Kent",
+      "postalCode": "TN2 5EU",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -114535,12 +114535,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "WERNETH GOLF CLUB",
+    "name": "VERNON CARUS SPORTS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Green Lane, Garden Suburb, Oldham",
-      "addressLocality": "Greater Manchester",
-      "postalCode": "DL8 3AZ",
+      "streetAddress": "Off Factory Lane, Penwortham",
+      "addressLocality": "Preston",
+      "postalCode": "PR1 9SN",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -115523,13 +115523,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "TARBARROW CRICKET CLUB",
+    "name": "WERNETH GOLF CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The Whiteway",
-      "addressLocality": "Cirencester",
-      "addressRegion": "Gloucestershire",
-      "postalCode": "GL57 7BA",
+      "streetAddress": "Green Lane, Garden Suburb, Oldham",
+      "addressLocality": "Greater Manchester",
+      "postalCode": "DL8 3AZ",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -115798,12 +115797,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "WHITE CROSS SKI CLUB",
+    "name": "WEALD LAWN TENNIS AND SQUASH RACQUETS",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The Boatyard, Rythergate, Cawood",
-      "addressLocality": "Selby,  North Yorkshire",
-      "postalCode": "YO8 3PT",
+      "streetAddress": "",
+      "addressLocality": "Kk",
+      "postalCode": "KK",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -116094,12 +116093,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "WHITE NOTLEY FOOTBALL CLUB",
+    "name": "West Bergholt Cricket Club",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Oak Farm, The Street, Faulkbourne",
-      "addressLocality": "Witham,  Essex",
-      "postalCode": "CM 1SP",
+      "streetAddress": "Manor Road",
+      "addressLocality": "West Bergholt",
+      "addressRegion": "Essex",
+      "postalCode": "CO6 5UB",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -116539,12 +116539,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "Wigtown Bowling Club",
+    "name": "WHITE NOTLEY FOOTBALL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "The Square, Wigtown",
-      "addressLocality": "Newton Stewart",
-      "postalCode": "WG8 9EH",
+      "streetAddress": "Oak Farm, The Street, Faulkbourne",
+      "addressLocality": "Witham,  Essex",
+      "postalCode": "CM 1SP",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -116977,12 +116977,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "WILTON GOLF CLUB",
+    "name": "WHITE CROSS SKI CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Wilton, Redcar",
-      "addressLocality": "Cleveland",
-      "postalCode": "TS10 4OY",
+      "streetAddress": "The Boatyard, Rythergate, Cawood",
+      "addressLocality": "Selby,  North Yorkshire",
+      "postalCode": "YO8 3PT",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -116992,12 +116992,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "WINDRUSHERS GLIDING CLUB",
+    "name": "WILTON GOLF CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Bicester Airfield, Skimmingdish Lane",
-      "addressLocality": "Bicester",
-      "postalCode": "OX26 5HA",
+      "streetAddress": "Wilton, Redcar",
+      "addressLocality": "Cleveland",
+      "postalCode": "TS10 4OY",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -117180,12 +117180,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "The Magdala Lawn Tennis Club Ltd",
+    "name": "WITCHAMPTON & DISTRICT RIFLE CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Northgate House, New Basford",
-      "addressLocality": "Nottingham",
-      "postalCode": "NH7 7BQ",
+      "streetAddress": "Newton, Witchampton",
+      "addressLocality": "Wimborne",
+      "addressRegion": "Dorset",
+      "postalCode": "BH21 6BT",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -117518,13 +117519,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "WITCHAMPTON & DISTRICT RIFLE CLUB",
+    "name": "STREATHAM-CROYDON RUGBY FOOTBALL CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Newton, Witchampton",
-      "addressLocality": "Wimborne",
-      "addressRegion": "Dorset",
-      "postalCode": "BH21 6BT",
+      "streetAddress": "159 Brigstock Road",
+      "addressLocality": "Thornton Heath",
+      "addressRegion": "Surrey",
+      "postalCode": "CR4 7JP",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -118268,13 +118269,12 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "WITNEY TOWN BOWLS CLUB",
+    "name": "WOLVERHAMPTON WHEELERS CYCLING CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Witney Town Bowls Club, The Leys",
-      "addressLocality": "Witney",
-      "addressRegion": "Oxfordshire",
-      "postalCode": "OX2 4AR",
+      "streetAddress": "C/o 48 Hawksmoor Drive, Perton",
+      "addressLocality": "Wolverhampton",
+      "postalCode": "WV6 7JE",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -118422,12 +118422,13 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "WOLVERTON PARK BOWLS CLUB",
+    "name": "WITNEY TOWN BOWLS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Old Wolverton Road",
-      "addressLocality": "Milton Keynes",
-      "postalCode": "MK12 5TJ",
+      "streetAddress": "Witney Town Bowls Club, The Leys",
+      "addressLocality": "Witney",
+      "addressRegion": "Oxfordshire",
+      "postalCode": "OX2 4AR",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -119063,12 +119064,27 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
-    "name": "WOLVERHAMPTON WHEELERS CYCLING CLUB",
+    "name": "WOLVERTON PARK BOWLS CLUB",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "C/o 48 Hawksmoor Drive, Perton",
-      "addressLocality": "Wolverhampton",
-      "postalCode": "WV6 7JE",
+      "streetAddress": "Old Wolverton Road",
+      "addressLocality": "Milton Keynes",
+      "postalCode": "MK12 5TJ",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "GB"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsOrganization",
+    "name": "WOODEND BOWLING AND LAWN TENNIS CLUB",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "10 Chamberlain Road",
+      "addressLocality": "Glasgow",
+      "postalCode": "GL13 1QE",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
@@ -119108,6 +119124,51 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsOrganization",
+    "name": "Typhoon Dragon Boat Club",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Royal Docks Adventure, 1012 Dockside Road",
+      "addressLocality": "London",
+      "postalCode": "E16 2QD",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "GB"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsOrganization",
+    "name": "WINDRUSHERS GLIDING CLUB",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bicester Airfield, Skimmingdish Lane",
+      "addressLocality": "Bicester",
+      "postalCode": "OX26 5HA",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "GB"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsOrganization",
+    "name": "Wigtown Bowling Club",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "The Square, Wigtown",
+      "addressLocality": "Newton Stewart",
+      "postalCode": "WG8 9EH",
+      "addressCountry": {
+        "@type": "Country",
+        "name": "GB"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsOrganization",
     "name": "WYNDHAM PARK BOWLS CLUB",
     "address": {
       "@type": "PostalAddress",
@@ -119130,67 +119191,6 @@
       "addressLocality": "Weybridge",
       "addressRegion": "Surrey",
       "postalCode": "KT13 8EH",
-      "addressCountry": {
-        "@type": "Country",
-        "name": "GB"
-      }
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsOrganization",
-    "name": "RED HEATHENS FOOTBALL CLUB",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Red Heathens Football Pitch, Charing Heath",
-      "addressLocality": "Nr Ashford",
-      "addressRegion": "Kent",
-      "postalCode": "TN27 1DZ",
-      "addressCountry": {
-        "@type": "Country",
-        "name": "GB"
-      }
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsOrganization",
-    "name": "WOODEND BOWLING AND LAWN TENNIS CLUB",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "10 Chamberlain Road",
-      "addressLocality": "Glasgow",
-      "postalCode": "GL13 1QE",
-      "addressCountry": {
-        "@type": "Country",
-        "name": "GB"
-      }
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsOrganization",
-    "name": "SOUTHSEA TENNIS CLUB",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Southsea Tennis Club, P O Box 640, Southsea",
-      "addressLocality": "Hants",
-      "postalCode": "PO4 0XP",
-      "addressCountry": {
-        "@type": "Country",
-        "name": "GB"
-      }
-    }
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsOrganization",
-    "name": "Thornhill and District Squash Club",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "Thornhill And District Squash Club, Drumlanrig Street, Thornhill",
-      "addressLocality": "Dumfries And Galloway",
-      "postalCode": "DG3 4DT",
       "addressCountry": {
         "@type": "Country",
         "name": "GB"
