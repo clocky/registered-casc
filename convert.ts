@@ -22,6 +22,12 @@ interface SportsOrganization {
   address: PostalAddress;
 }
 
+interface PostcodesIO {
+  result: {
+    admin_county: string;
+  }
+}
+
 const counties = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), './postcodes-io/counties.json'), 'utf-8'));
 
 const organizations: SportsOrganization[] = [];
@@ -83,7 +89,7 @@ async function processData(data: any): Promise<SportsOrganization> {
   }
 
   if (data["Postcode"]) {
-    const response = await queryPostcode(data['Postcode']);
+    const response: PostcodesIO = await queryPostcode(data['Postcode']);
     if (response && response.result) {
       addressRegion = response.result.admin_county ?? addressRegion;
     }
