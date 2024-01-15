@@ -44,12 +44,12 @@ ABBOTS LANGLEY BOWLING CLUB   ,12 GREENWAYS,ABBOTS LANGLEY,,,WD5 0EU
 The ODS file is converted to a CSV file using LibreOffice. The CSV file is then
 converted to a JSON file using a TypeScript script.
 
-If there's no county `aaddressRegion`, then a call is made to `api.postcodes.io` to see if there's an associated `admin_county` for the postcode.
+1. If the `Postcode` column has content, use that to populate the `addressCountry` and `postalCode` fields.
+2. If there's no `addressRegion` then the `addressLocality` is used to look up the county in the `counties.json` file.
+3. If `addressRegion` is still empty, then a lookup is made to `https://api.postcodes.io/postcodes/` to populate it from an `admin_county` response.
+4. The column immediately before `addressRegion` is used for `addressLocality`.
+5. All address fields are title cased.
 
 ## Usage
 
 `bun convert.ts`
-
-```
-
-```
