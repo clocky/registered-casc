@@ -1,6 +1,7 @@
 import * as fs from 'fs';
 import csvParser from 'csv-parser';
 import path from 'path';
+// @ts-ignore
 import EleventyFetch from '@11ty/eleventy-fetch';
 
 interface PostalAddress {
@@ -68,12 +69,12 @@ async function processData(data: any): Promise<SportsOrganization> {
   let addressLocality = '';
   let previousLine = '';
   for (let line of addressLines) {
-    const matchedCounty = Object.entries(counties).find(([code, county]) => county.toLowerCase() === line.trim().toLowerCase());
+    const matchedCounty = Object.entries(counties).find(([code, county]) => (county as string).toLowerCase() === line.trim().toLowerCase());
     if (matchedCounty) {
       addressRegion = matchedCounty[1];
       addressLocality = previousLine;
       addressLines = addressLines.filter(addressLine =>
-        addressLine.trim().toLowerCase() !== matchedCounty[1].toLowerCase() &&
+        addressLine.trim().toLowerCase() !== (matchedCounty[1] as string).toLowerCase() &&
         addressLine.trim().toLowerCase() !== previousLine.trim().toLowerCase()
       );
       break;
