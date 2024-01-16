@@ -26,7 +26,7 @@ interface SportsOrganization {
 interface PostcodesIO {
   result: {
     admin_county: string;
-  }
+  } | null;
 }
 
 const counties = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), './postcodes-io/counties.json'), 'utf-8'));
@@ -71,7 +71,7 @@ async function processData(data: any): Promise<SportsOrganization> {
   for (let line of addressLines) {
     const matchedCounty = Object.entries(counties).find(([code, county]) => (county as string).toLowerCase() === line.trim().toLowerCase());
     if (matchedCounty) {
-      addressRegion = matchedCounty[1];
+      addressRegion = matchedCounty[1] as string;
       addressLocality = previousLine;
       addressLines = addressLines.filter(addressLine =>
         addressLine.trim().toLowerCase() !== (matchedCounty[1] as string).toLowerCase() &&
@@ -90,7 +90,7 @@ async function processData(data: any): Promise<SportsOrganization> {
   }
 
   if (data["Postcode"]) {
-    const response: PostcodesIO = await queryPostcode(data['Postcode']);
+    const response = await queryPostcode(data['Postcode']) as unknown as PostcodesIO;
     if (response && response.result) {
       addressRegion = response.result.admin_county ?? addressRegion;
     }
@@ -118,35 +118,24 @@ async function processData(data: any): Promise<SportsOrganization> {
 
 const processFile = async () => {
   return new Promise<void>((resolve, reject) => {
-    let promises = [];
-    let counter = 0;
+    let promises: Promise<SportsOrganization>[] = [];
+    let organizations: SportsOrganization[] = []; // Assuming this array is defined somewhere
+
     fs.createReadStream('registered-casc.csv')
       .pipe(csvParser())
       .on('data', (data: any) => {
-        // Push the promise returned by processData into the promises array
-        if (counter < 8192) {
-          promises.push(processData(data).then(organization => {
-            organizations.push(organization);
-          }).catch(error => {
-            console.error('Error processing CSV data:', error);
-            reject(error);
-          }));
-          counter++;
-        }
+        promises.push(processData(data)); // Collect promises
       })
       .on('end', async () => {
-        // Wait for all promises to resolve before writing to the file
-        await Promise.all(promises);
+        organizations = await Promise.all(promises); // Wait for all promises and store results
         fs.writeFileSync('registered-casc.json', JSON.stringify(organizations, null, 2));
         console.log('Conversion complete.');
         resolve();
       })
-      .on('error', (error) => {
-        console.error('Error reading CSV file:', error);
-        reject(error);
-      });
+      .on('error', reject); // Add error handling
   });
-}
+};
+
 
 processFile().catch(error => console.error('Error processing file:', error));
 
