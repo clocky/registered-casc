@@ -4019,7 +4019,6 @@
       "@type": "PostalAddress",
       "streetAddress": "Ashby Hastings Cricket Club, The Bath Grounds",
       "addressLocality": "Ashby De La Zouch",
-      "addressRegion": "Leicestershire",
       "postalCode": "LE65 2GP",
       "addressCountry": {
         "@type": "Country",
@@ -4051,6 +4050,7 @@
       "@type": "PostalAddress",
       "streetAddress": "Ashford & District Amateur Boxing C, Ashford Boxing Club Gym, Jemmett Road",
       "addressLocality": "Ashford, Kent",
+      "addressRegion": "Kent",
       "postalCode": "TN23 4QE",
       "addressCountry": {
         "@type": "Country",
@@ -67403,6 +67403,7 @@
       "@type": "PostalAddress",
       "streetAddress": "Market Bosworth Rugby Football Club, Limited, Cadeby Lane",
       "addressLocality": "Cadeby,  Nuneaton",
+      "addressRegion": "Leicestershire",
       "postalCode": "CV13 0BE",
       "addressCountry": {
         "@type": "Country",
@@ -72534,7 +72535,6 @@
       "@type": "PostalAddress",
       "streetAddress": "Newark Academy, London Road, Newark",
       "addressLocality": "Notts",
-      "addressRegion": "Nottinghamshire",
       "postalCode": "NG24 1TT",
       "addressCountry": {
         "@type": "Country",
@@ -116991,6 +116991,7 @@
       "@type": "PostalAddress",
       "streetAddress": "C/o 48 Hawksmoor Drive, Perton",
       "addressLocality": "Wolverhampton",
+      "addressRegion": "Staffordshire",
       "postalCode": "WV6 7JE",
       "addressCountry": {
         "@type": "Country",
